@@ -85,7 +85,6 @@ class ListViewSearchController extends BaseController
     {
         try {
             $jsonResponse = $this->listViewSearchService->getListViewSearchDefs($params);
-
             return $this->generateResponse($response, $jsonResponse, 200);
         } catch (Exception $exception) {
             return $this->generateErrorResponse($response, $exception, 400);

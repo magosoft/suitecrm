@@ -1,0 +1,24 @@
+Fri Jun 27 16:56:18 2025 [18320][1][SECURITY] OutboundEmail::checkSavePermissions - not logged in - skipping check
+Fri Jun 27 16:56:18 2025 [18320][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Fri Jun 27 16:56:18 2025 [18320][1][FATAL] Email address save error
+Fri Jun 27 16:56:31 2025 [18320][1][FATAL] User update error: Temp User is not retrieved at ID seed_jim_id, boolean given
+Fri Jun 27 16:56:31 2025 [18320][1][FATAL] Email address save error
+Fri Jun 27 16:56:31 2025 [18320][1][FATAL] User update error: Temp User is not retrieved at ID seed_sarah_id, boolean given
+Fri Jun 27 16:56:31 2025 [18320][1][FATAL] Email address save error
+Fri Jun 27 16:56:31 2025 [18320][1][FATAL] User update error: Temp User is not retrieved at ID seed_sally_id, boolean given
+Fri Jun 27 16:56:31 2025 [18320][1][FATAL] Email address save error
+Fri Jun 27 16:56:31 2025 [18320][1][FATAL] User update error: Temp User is not retrieved at ID seed_max_id, boolean given
+Fri Jun 27 16:56:31 2025 [18320][1][FATAL] Email address save error
+Fri Jun 27 16:56:31 2025 [18320][1][FATAL] User update error: Temp User is not retrieved at ID seed_will_id, boolean given
+Fri Jun 27 16:56:31 2025 [18320][1][FATAL] Email address save error
+Fri Jun 27 16:56:31 2025 [18320][1][FATAL] User update error: Temp User is not retrieved at ID seed_chris_id, boolean given
+Fri Jun 27 16:56:31 2025 [18320][1][FATAL] Email address save error
+Fri Jun 27 16:57:00 2025 [18320][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Fri Jun 27 16:57:00 2025 [18320][1][SECURITY] Setting logger_file_ext to '.log'.
+Fri Jun 27 16:57:00 2025 [18320][1][SECURITY] Setting logger_file_name to ''.
+Fri Jun 27 16:57:00 2025 [18320][1][SECURITY] Log file extension can't be blank.
+Fri Jun 27 16:57:00 2025 [18320][1][SECURITY] Setting logger_file_name to ''.
+Fri Jun 27 16:57:00 2025 [18320][1][SECURITY] Log file extension can't be blank.
+Fri Jun 27 20:48:58 2025 [18320][1][FATAL] Email address save error
+Fri Jun 27 21:51:18 2025 [18320][1][FATAL] User update error: Temp User is not retrieved at ID 4be00a02-60e0-a076-eb1d-685ef6e4e76f, boolean given
+Fri Jun 27 21:51:18 2025 [18320][1][FATAL] Email address save error

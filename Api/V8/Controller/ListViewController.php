@@ -85,7 +85,6 @@ class ListViewController extends BaseController
     {
         try {
             $jsonResponse = $this->listViewService->getListViewDefs($params);
-
             return $this->generateResponse($response, $jsonResponse, 200);
         } catch (Exception $exception) {
             return $this->generateErrorResponse($response, $exception, 400);
